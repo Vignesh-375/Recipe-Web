@@ -22,7 +22,7 @@ Make sure you have Node.js and npm installed on your machine. Registration to Sp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RecipeWeb/RecipeWebApp.git
+   git clone https://github.com/Recipe-Web/RecipeWebApp.git
    cd RecipeWebApp
    ```
 2. Connect your API key:
