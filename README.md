@@ -22,8 +22,8 @@ Make sure you have Node.js and npm installed on your machine. Registration to Sp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/OzturkVedat/RecipeBookApp_ReactJs.git
-   cd RecipeBookApp_ReactJs
+   git clone https://github.com/RecipeWeb/RecipeWebApp.git
+   cd RecipeWebApp
    ```
 2. Connect your API key:
    Use the API key provided from the Spoonacular website as an vite enviroment variable(for development purposes). Create an .env file in root folder and add the line:
@@ -37,7 +37,7 @@ Make sure you have Node.js and npm installed on your machine. Registration to Sp
    npm run dev
    ```
 
-5. Open the app in your browser at `http://localhost:5173/Recipe_Book_App/`.
+5. Open the app in your browser at `http://localhost:5173/RecipeWebApp/`.
 
 ## UI
 
